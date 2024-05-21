@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Student sharing my projects, aspiring web developer/software engineer <br>📚 Currently a student at Baruch College majoring in CIS<br>🌱 I’m currently learning to create my own AI assistance<br>💬 Let's connect!
+💻 Student sharing my projects, aspiring web developer/software engineer <br>📚 Currently a student at Baruch College majoring in Computer Information System<br>🌱 I’m currently learning to create my own AI assistance<br>💬 Let's connect!
 
 
 ## 🌐 Socials:
